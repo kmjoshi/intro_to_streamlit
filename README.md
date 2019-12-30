@@ -12,7 +12,7 @@ you can either host notebooks on
 - do a full-fledged UI
 
 #### Solution:
-**s t r e a m l i t**
+**[s t r e a m l i t](https://streamlit.io/)**
 
 See proposed talk: https://github.com/pydatadelhi/talks/issues/112
 
@@ -28,8 +28,8 @@ See proposed talk: https://github.com/pydatadelhi/talks/issues/112
         - "Streamlit is React for Python." ;)
 - ...
 
-<!-- ## How to use streamlit -->
-<!-- - ... -->
+## How to use streamlit
+- Check out: http://awesome-streamlit.org/
 
 ## How to host: 
 heroku: Procfile + setup.sh: https://discuss.streamlit.io/t/hosting-streamlit-on-github-pages/356/6
