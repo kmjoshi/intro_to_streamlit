@@ -32,6 +32,6 @@ See proposed talk: https://github.com/pydatadelhi/talks/issues/112
 - Check out: http://awesome-streamlit.org/
 
 ## How to host: 
-heroku: Procfile + setup.sh: https://discuss.streamlit.io/t/hosting-streamlit-on-github-pages/356/6
+heroku: Procfile + setup.sh: https://discuss.streamlit.io/t/hosting-streamlit-on-github-pages/356/6  
 deployed here: https://intro-to-streamlit.herokuapp.com/  
 This is only the tutorial presented in the official docs!
